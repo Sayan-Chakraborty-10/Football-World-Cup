@@ -24,8 +24,16 @@ body{
     margin-top: 60px;
 }
 .div3{
-    margin-left: 250px;
+    margin-left: 120px;
     margin-top: -160px;
+}
+.div4{
+    margin-left: 120px;
+    margin-top: 0px;
+}
+.div7{
+    margin-left: 120px;
+    margin-top: 0px;
 }
 .div5{
     background-color: #242B2E;
